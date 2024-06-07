@@ -1,2 +1,2 @@
 # azure-openai-service-documen-test
-This is the repository for testing Azure OpenAI Service documentation
+This is Masahiro Ogawa's test referencing Azure OpenAI Service documentation.
